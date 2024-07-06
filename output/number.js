@@ -18,4 +18,3 @@ console.log(numeroGigante);
 // Números gigantes 
 // Só funcionam apartir do ES2020 
 // Têm que verificar no tsconfig.json
-//# sourceMappingURL=number.js.map

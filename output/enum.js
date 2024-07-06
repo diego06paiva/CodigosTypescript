@@ -23,4 +23,3 @@ else {
 }
 // Teste lógico para demonstrar como o enum funciona
 // Enum é um tipo de dado que permite definir um conjunto de constantes nomeadas
-//# sourceMappingURL=enum.js.map

@@ -7,4 +7,3 @@ siteFavoritos.push(site);
 // A sintaxe "site as string" diz para o typescript tratar a váriavel como uma string
 // Ambas as sintaxes funcionam
 // Afirmações do tipo
-//# sourceMappingURL=type_assertion.js.map

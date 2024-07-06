@@ -9,4 +9,3 @@ usuario = Boolean(0);
 // usuario recebe o valor 0 que é um tipo de valor falso
 console.log(usuario);
 // Tipo de váriavel boolean ou seja true ou false
-//# sourceMappingURL=boolean.js.map

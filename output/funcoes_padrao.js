@@ -6,4 +6,3 @@ remetente // Aqui foj passado o sinal de interrogação(?) isso indica que é op
 }
 enviarEmail("Diego@gmail.com");
 // Parametros com valores opcionais e já com um padrão pré definido
-//# sourceMappingURL=funcoes_padrao.js.map

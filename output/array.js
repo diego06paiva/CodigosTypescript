@@ -14,4 +14,3 @@ const filmeAno = ["vingadores", 2012];
 // Ele tambem é uma array que aceita dois tipos de valores
 // Mas tem uma sintaxe diferente com <> e escrito literalmete array ali
 // Tipo array
-//# sourceMappingURL=array.js.map

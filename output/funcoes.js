@@ -18,4 +18,3 @@ const show = (numeros) => {
     return numeros;
 };
 console.log(show(222));
-//# sourceMappingURL=funcoes.js.map

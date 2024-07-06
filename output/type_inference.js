@@ -13,4 +13,3 @@ console.log(lista);
 // Mesmo não passando o tipo de dado especifico ele já entende automaticamente 
 lista.push("Outra string"); // Caso eu tente mandar outra string para dentro da lista ele aceita pq já tem um tipo string 
 //lista.push(true) // Caso eu tente mandar um valor que não existe lá ele já interfere dizendo que não tem como
-//# sourceMappingURL=type_inference.js.map

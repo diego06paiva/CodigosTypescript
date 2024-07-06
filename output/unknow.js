@@ -16,4 +16,3 @@ const numeroUm = numero1;
 //const numeroEstranho: number = numeroDesconhecido;
 // Aqui ele não aceita o tipo number já que o tipo unknow por não saber qual tipo ele vai ser atribuido
 // Só aceita variaveis do tipo unknow
-//# sourceMappingURL=unknow.js.map
