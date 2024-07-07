@@ -1,0 +1,15 @@
+POO - Programação Orientada a Objetos
+
+O que é uma classe? - Onde armazenamos as caracteristicas e as ações que o Objeto vai possuir
+
+Todas as caracteristicas de um objeto são seus atributos
+Todas as ações do objeto são métodos
+
+O objeto é a instancia de uma classe
+
+4 conceitos principais:
+
+1 - Herança: Quando uma classe herda algo de outra classe
+2 - Encapsulamento: Define um tipo de proteção aos atributos e os métodos
+3 - Polimorfismo: É como se fosse duas ações como o mesmo nome, mas que fazem coisas diferentes
+4 - Abstração: É uma classe abstrata ela nunca vai virar um objeto
