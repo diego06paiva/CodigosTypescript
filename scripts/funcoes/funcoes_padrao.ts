@@ -9,3 +9,7 @@ function enviarEmail(
 enviarEmail("Diego@gmail.com");
 
 // Parametros com valores opcionais e já com um padrão pré definido
+
+export function EnviarEmail(mensagem: string): string {
+  return `Mensagem: ${mensagem}`;
+}
