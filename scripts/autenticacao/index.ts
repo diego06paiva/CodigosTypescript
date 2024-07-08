@@ -22,7 +22,7 @@ namespace Autenticacao {
     recuperarSenha(usuario:) {
       return usuario;
     }
-    recuperarUsuario(recuperarSenha) {
+    recuperarUsuario(recuperarSenha: string) {
       return recuperarSenha;
     }
   }
