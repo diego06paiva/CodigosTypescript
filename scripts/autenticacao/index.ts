@@ -19,7 +19,7 @@ namespace Autenticacao {
   }
 
   export class recuperacao {
-    recuperarSenha(usuario:) {
+    recuperarSenha(usuario: string) {
       return usuario;
     }
     recuperarUsuario(recuperarSenha: string) {
